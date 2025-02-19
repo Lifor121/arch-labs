@@ -1,9 +1,198 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Страница — 1" id="FRz9KQ0LG0uaV-CqOTGQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1350" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-15" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="67" y="-1064" width="360" height="189.47" as="geometry" />
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-37" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-15">
+          <mxGeometry width="360" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-38" value="&#xa;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&#xa;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&#xa;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;A&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-37">
+          <mxGeometry width="38" height="38" as="geometry">
+            <mxRectangle width="38" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-39" value="&#xa;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&#xa;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&#xa;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;B&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-37">
+          <mxGeometry x="38" width="38" height="38" as="geometry">
+            <mxRectangle width="38" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-40" value="&#xa;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&#xa;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&#xa;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;A&amp;amp;B&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-37">
+          <mxGeometry x="76" width="66" height="38" as="geometry">
+            <mxRectangle width="66" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-41" value="&#xa;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&#xa;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&#xa;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;¬A&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-37">
+          <mxGeometry x="142" width="47" height="38" as="geometry">
+            <mxRectangle width="47" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-42" value="&#xa;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&#xa;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&#xa;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;¬A&lt;/span&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;font-family:&amp;quot;Cambria Math&amp;quot;,serif;&#xa;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:&#xa;&amp;quot;Cambria Math&amp;quot;;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:&#xa;AR-SA&quot;&gt;∨&lt;/span&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;&#xa;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&#xa;minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-theme-font:minor-bidi;mso-ansi-language:RU;mso-fareast-language:EN-US;&#xa;mso-bidi-language:AR-SA&quot;&gt;B&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-37">
+          <mxGeometry x="189" width="57" height="38" as="geometry">
+            <mxRectangle width="57" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-43" value="&#xa;&lt;span style=&quot;font-size:11.0pt;line-height:&#xa;107%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&#xa;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&#xa;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;F=(A&amp;amp;B)&lt;/span&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;font-family:&amp;quot;Cambria Math&amp;quot;,serif;&#xa;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:&#xa;&amp;quot;Cambria Math&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:&#xa;AR-SA&quot; lang=&quot;EN-US&quot;&gt;∨&lt;/span&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&#xa;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&#xa;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;(¬A&lt;/span&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;font-family:&amp;quot;Cambria Math&amp;quot;,serif;&#xa;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:&#xa;&amp;quot;Cambria Math&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:&#xa;AR-SA&quot; lang=&quot;EN-US&quot;&gt;∨&lt;/span&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&#xa;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&#xa;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;B)&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-37">
+          <mxGeometry x="246" width="114" height="38" as="geometry">
+            <mxRectangle width="114" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-44" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-15">
+          <mxGeometry y="38" width="360" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-45" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-44">
+          <mxGeometry width="38" height="38" as="geometry">
+            <mxRectangle width="38" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-46" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-44">
+          <mxGeometry x="38" width="38" height="38" as="geometry">
+            <mxRectangle width="38" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-47" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-44">
+          <mxGeometry x="76" width="66" height="38" as="geometry">
+            <mxRectangle width="66" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-48" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-44">
+          <mxGeometry x="142" width="47" height="38" as="geometry">
+            <mxRectangle width="47" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-49" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-44">
+          <mxGeometry x="189" width="57" height="38" as="geometry">
+            <mxRectangle width="57" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-50" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-44">
+          <mxGeometry x="246" width="114" height="38" as="geometry">
+            <mxRectangle width="114" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-15">
+          <mxGeometry y="76" width="360" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-17" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-16">
+          <mxGeometry width="38" height="38" as="geometry">
+            <mxRectangle width="38" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-18" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-16">
+          <mxGeometry x="38" width="38" height="38" as="geometry">
+            <mxRectangle width="38" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-19" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-16">
+          <mxGeometry x="76" width="66" height="38" as="geometry">
+            <mxRectangle width="66" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-28" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-16">
+          <mxGeometry x="142" width="47" height="38" as="geometry">
+            <mxRectangle width="47" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-31" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-16">
+          <mxGeometry x="189" width="57" height="38" as="geometry">
+            <mxRectangle width="57" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-34" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-16">
+          <mxGeometry x="246" width="114" height="38" as="geometry">
+            <mxRectangle width="114" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-15">
+          <mxGeometry y="114" width="360" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-21" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-20">
+          <mxGeometry width="38" height="38" as="geometry">
+            <mxRectangle width="38" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-22" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-20">
+          <mxGeometry x="38" width="38" height="38" as="geometry">
+            <mxRectangle width="38" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-23" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-20">
+          <mxGeometry x="76" width="66" height="38" as="geometry">
+            <mxRectangle width="66" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-29" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-20">
+          <mxGeometry x="142" width="47" height="38" as="geometry">
+            <mxRectangle width="47" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-32" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-20">
+          <mxGeometry x="189" width="57" height="38" as="geometry">
+            <mxRectangle width="57" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-35" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-20">
+          <mxGeometry x="246" width="114" height="38" as="geometry">
+            <mxRectangle width="114" height="38" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-24" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-15">
+          <mxGeometry y="152" width="360" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-25" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-24">
+          <mxGeometry width="38" height="37" as="geometry">
+            <mxRectangle width="38" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-26" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-24">
+          <mxGeometry x="38" width="38" height="37" as="geometry">
+            <mxRectangle width="38" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-27" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-24">
+          <mxGeometry x="76" width="66" height="37" as="geometry">
+            <mxRectangle width="66" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-30" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-24">
+          <mxGeometry x="142" width="47" height="37" as="geometry">
+            <mxRectangle width="47" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-33" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-24">
+          <mxGeometry x="189" width="57" height="37" as="geometry">
+            <mxRectangle width="57" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-36" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NJjXHuJDIeg9vtIFSli9-24">
+          <mxGeometry x="246" width="114" height="37" as="geometry">
+            <mxRectangle width="114" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-51" value="&lt;b&gt;Лабораторная работа № 1 &quot;Построение логических схем&quot; Шарынин В&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="28.5" y="-1160" width="437" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-52" value="&lt;b&gt;1. Таблица истинности&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="53" y="-1094" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-53" value="&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;2. Построение логической функции (СДНФ)&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Строки, где&amp;nbsp;F=1F=1:&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;A=0,B=0 →&amp;nbsp;¬A&amp;amp;¬B&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;A=0,B=1 →&amp;nbsp;¬A&amp;amp;B&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;A=1,B=1 →&amp;nbsp;A&amp;amp;B&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;СДНФ:&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;F=(¬A&amp;amp;¬B)&lt;span style=&quot;font-family:&amp;quot;Cambria Math&amp;quot;,serif;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;(¬A&amp;amp;B)&lt;span style=&quot;font-family:&lt;br/&gt;&amp;quot;Cambria Math&amp;quot;,serif;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;(A&amp;amp;B)&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="53" y="-850" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-55" value="&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;3. Минимизация функции&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Упростим СДНФ с помощью алгебраических преобразований:&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Объединим первые два терма:&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;(¬A&amp;amp;¬B)&lt;span style=&quot;font-family:&amp;quot;Cambria Math&amp;quot;,serif;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;(¬A&amp;amp;B)=¬A&amp;amp;(¬B&lt;span style=&quot;font-family:&amp;quot;Cambria Math&amp;quot;,serif;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;B)=¬A&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Добавим оставшийся терм:&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;F=¬A&lt;span style=&quot;font-family:&amp;quot;Cambria Math&amp;quot;,serif;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;(A&amp;amp;B)&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Применим закон дистрибутивности:&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;F=(¬A&lt;span style=&quot;font-family:&amp;quot;Cambria Math&amp;quot;,serif;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;A)&amp;amp;(¬A&lt;span style=&quot;font-family:&lt;br/&gt;&amp;quot;Cambria Math&amp;quot;,serif;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;B)=1&amp;amp;(¬A&lt;span style=&quot;font-family:&amp;quot;Cambria Math&amp;quot;,serif;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;B)=¬A&lt;span style=&quot;font-family:&amp;quot;Cambria Math&amp;quot;,serif;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;B&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;Упрощённая функция:&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;F=¬A&lt;span style=&quot;font-family:&amp;quot;Cambria Math&amp;quot;,serif;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;B&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="53" y="-660" width="360" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-57" value="Вариант 10:&amp;nbsp;&lt;span style=&quot;font-size: 11pt; font-family: Calibri, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;(A&amp;amp;B)&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; line-height: 15.6933px; font-family: &amp;quot;Cambria Math&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;∨&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; line-height: 15.6933px;&quot; lang=&quot;EN-US&quot;&gt;(¬A&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; line-height: 15.6933px; font-family: &amp;quot;Cambria Math&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;∨&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; line-height: 15.6933px;&quot; lang=&quot;EN-US&quot;&gt;B)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="67" y="-1124" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-58" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;4. Оценка сложности схемы&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Исходное выражение:&lt;br&gt;&lt;br&gt;(A&amp;amp;B)&lt;span style=&quot;font-family:&amp;quot;Cambria Math&amp;quot;,serif;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;(¬A&lt;span style=&quot;font-family:&amp;quot;Cambria Math&amp;quot;,serif;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;B)&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;1 элемент &quot;И&quot; (2 входа),&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;1 инвертор (1 вход),&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;2 элемента &quot;ИЛИ&quot; (2 входа каждый).&lt;br&gt;&lt;br&gt;Цена схемы:&amp;nbsp;2+1+2+2=7&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Упрощённое выражение:&lt;br&gt;&lt;br&gt;¬A&lt;span style=&quot;font-family:&amp;quot;Cambria Math&amp;quot;,serif;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;B¬A&lt;span style=&quot;font-family:&amp;quot;Cambria Math&amp;quot;,serif;mso-bidi-font-family:&amp;quot;Cambria Math&amp;quot;&quot;&gt;∨&lt;/span&gt;B&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;1 инвертор (1 вход),&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;1 элемент &quot;ИЛИ&quot; (2 входа).&lt;br&gt;&lt;br&gt;Цена схемы:&amp;nbsp;1+2=3&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="52" y="-390" width="210" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="NJjXHuJDIeg9vtIFSli9-59" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;Контрольные вопросы&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Алгебра логики&amp;nbsp;используется для анализа и синтеза цифровых схем.&lt;/li&gt;&lt;li&gt;Двоичные переменные&amp;nbsp;принимают значения 0 или 1.&amp;nbsp;Переключательные функции&amp;nbsp;описывают зависимость выходов схемы от входов.&amp;nbsp;Логический элемент&amp;nbsp;— базовая часть цифровой схемы (например, &quot;И&quot;, &quot;ИЛИ&quot;, &quot;НЕ&quot;).&lt;/li&gt;&lt;li&gt;Базовые функции:&amp;nbsp;&quot;И&quot;, &quot;ИЛИ&quot;, &quot;НЕ&quot;.&amp;nbsp;Составные:&amp;nbsp;&quot;И-НЕ&quot;, &quot;ИЛИ-НЕ&quot; и т.д.&lt;/li&gt;&lt;li&gt;Законы булевой алгебры:&amp;nbsp;коммутативность, ассоциативность, дистрибутивность, закон де Моргана.&lt;/li&gt;&lt;li&gt;Этапы построения схемы:&amp;nbsp;таблица истинности → СДНФ → минимизация → реализация в заданном базисе.&lt;/li&gt;&lt;li&gt;Упрощение ДНФ&amp;nbsp;уменьшает сложность схемы, снижая количество элементов.&lt;/li&gt;&lt;li&gt;Цена схемы&amp;nbsp;— суммарное число входов элементов. Определяется подсчётом входов всех элементов.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-320" width="388.5" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
